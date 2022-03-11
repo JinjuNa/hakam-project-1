@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.0d085ed1.css","mappings":"AAAA,KAEI,0BAA2B,CAG3B,iBAAkB,CADlB,oBAAqB,CADrB,WAAY,CAFZ,gBAKJ","sources":["components/FeedItem.css"],"sourcesContent":[".tag {\n    padding: 10px 5px;\n    background-color: #cccccc80;\n    margin: 10px;\n    display: inline-block;\n    border-radius: 5px;\n}"],"names":[],"sourceRoot":""}

@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hakam-project-1/static/css/main.0d085ed1.css",
-    "main.js": "/hakam-project-1/static/js/main.e65d36dd.js",
+    "main.css": "/hakam-project-1/static/css/main.a80c4f4c.css",
+    "main.js": "/hakam-project-1/static/js/main.fb00fc8f.js",
     "static/js/787.b0c77d0e.chunk.js": "/hakam-project-1/static/js/787.b0c77d0e.chunk.js",
     "index.html": "/hakam-project-1/index.html",
-    "main.0d085ed1.css.map": "/hakam-project-1/static/css/main.0d085ed1.css.map",
-    "main.e65d36dd.js.map": "/hakam-project-1/static/js/main.e65d36dd.js.map",
+    "main.a80c4f4c.css.map": "/hakam-project-1/static/css/main.a80c4f4c.css.map",
+    "main.fb00fc8f.js.map": "/hakam-project-1/static/js/main.fb00fc8f.js.map",
     "787.b0c77d0e.chunk.js.map": "/hakam-project-1/static/js/787.b0c77d0e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d085ed1.css",
-    "static/js/main.e65d36dd.js"
+    "static/css/main.a80c4f4c.css",
+    "static/js/main.fb00fc8f.js"
   ]
 }
